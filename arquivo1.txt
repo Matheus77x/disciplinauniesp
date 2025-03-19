@@ -1,4 +1,4 @@
 Faculdade Uniesp
 Curdo de Ciência da Computação/sistema para Internet
-Matheus Henrique Santos Macedo
-Disciplina: Tópicos Essenciais para Programação
+
+Respondendo a lista de exercício do GitHub
